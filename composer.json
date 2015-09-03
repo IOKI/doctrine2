@@ -15,6 +15,7 @@
         "php": ">=5.3.2",
         "ext-pdo": "*",
         "doctrine/dbal": "2.3.*",
+        "doctrine/instantiator": "~1.0.1",
         "symfony/console": "2.*"
     },
     "suggest": {
